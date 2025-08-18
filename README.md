@@ -3,9 +3,9 @@ Powerful Ddos Attack Tools
 
 # Installation 
 ```
-git clone https://github.com/BadBoy9399/DDOS
+git clone https://github.com/H4C-K3R/DDOS
 cd DDOS
-python dos.py
+python ddos.py
 ```
 
 # Note Use Paid Vpn
